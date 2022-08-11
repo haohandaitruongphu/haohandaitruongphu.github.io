@@ -294,6 +294,14 @@
     padding-left: 4px;
 }
 
+.footer_box_box img:hover {
+    filter: brightness(90%);
+}
+
+.footer_list img:hover {
+    filter: brightness(90%);
+}
+
 
 /* js */
 .swiper .swiper-button-prev, .swiper .swiper-button-next {
